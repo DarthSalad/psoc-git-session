@@ -1,3 +1,3 @@
 # psoc-git-session
 
-- Piyush Mishra
+- Nitin Chandra Sahu
