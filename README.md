@@ -1,5 +1,6 @@
 # psoc-git-session
 
+- Ayush Raj
 - swoyam siddharth nayak
 - Nitin Chandra Sahu
 - Pratik
