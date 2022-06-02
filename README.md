@@ -1,2 +1,8 @@
 # psoc-git-session
-hi I am Pratik
+
+- Pratik
+- Naisargika Subudhi
+- Rohan Kumar Mohanty
+- Roshan Dash
+- Piyush Mishra
+
