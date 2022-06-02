@@ -1,5 +1,6 @@
 # psoc-git-session
 
+- Sneha Mandal
 - Soham Kumar Rath
 - Ayush Raj
 - swoyam siddharth nayak
